@@ -1,4 +1,4 @@
-[vitality-hub-website (CREATED BY CLAUDE.AI0.html](https://github.com/user-attachments/files/26534311/vitality-hub-website.CREATED.BY.CLAUDE.AI0.html)
+
 
 <!DOCTYPE html>
 <html lang="en">
